@@ -1,0 +1,11 @@
+C:\Users\ercan kara\source\repos\matematik\matematik\bin\Debug\matematik.exe.config
+C:\Users\ercan kara\source\repos\matematik\matematik\bin\Debug\matematik.exe
+C:\Users\ercan kara\source\repos\matematik\matematik\bin\Debug\matematik.pdb
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.csproj.AssemblyReference.cache
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.Form1.resources
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.Properties.Resources.resources
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.csproj.GenerateResource.cache
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.csproj.CoreCompileInputs.cache
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.exe
+C:\Users\ercan kara\source\repos\matematik\matematik\obj\Debug\matematik.pdb
